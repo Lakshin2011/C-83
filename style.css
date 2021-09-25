@@ -1,0 +1,18 @@
+#bimg
+{
+  background-image : url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
+  background-size: cover;
+  background-position: center;
+  color: hsla(194, 46%, 51%, 0.877);
+}
+#can
+{
+    background-color: rgb(228, 187, 140);
+    border-style: ridge;
+    border-color: rgb(97, 235, 235);
+}
+#i1
+{
+  height: 20px;
+  width: 20px;
+}
